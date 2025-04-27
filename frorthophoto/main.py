@@ -119,8 +119,8 @@ class OrthophotoGenerator:
 
 if __name__ == "__main__":
   
-    input_folder = "D:\\4thAve"
-    output_path = "D:\\4thAve\\orthophoto_result.jpg"
+    input_folder = ".\\4thAve"
+    output_path = ".\\4thAve\\orthophoto_result\\orthophoto_result.jpg"
 
 
     cv2.ocl.setUseOpenCL(False)
